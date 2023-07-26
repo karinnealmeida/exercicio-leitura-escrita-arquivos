@@ -1,0 +1,1 @@
+Exercício realizado na aula de leitura e escrita de arquivo, pelo curso de backend da Cubos Academy.
